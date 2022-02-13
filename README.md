@@ -61,7 +61,7 @@ public class dtpsTest {
 
 ```
 
-#### in file -> hwad.dtsp-->
+#### in file -> hwad.dtsp:
 
 ```
 ._HELLOWORLD: Hello, ~World!
