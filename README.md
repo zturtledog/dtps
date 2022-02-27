@@ -23,8 +23,8 @@ to clarify dtps stands for Data Text Postcompiled Script\
 *addVarible*: adds a varible
 
 #### compile
-compile: compiles and returns a string containing the contents of the object
-compileAndEncrypt: compiles then encrypts the string before returning 
+*compile*: compiles and returns a string containing the contents of the object\
+*compileAndEncrypt*: compiles then encrypts the string before returning 
 
 ## in file
 
