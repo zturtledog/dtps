@@ -1,4 +1,3 @@
-at 2022 twwallow haven studios\
 to clarify dtps stands for Data Text Postcompiled Script\
 
 ## in code
