@@ -16,10 +16,10 @@ to clarify dtps stands for Data Text Postcompiled Script\
 *getHeadAsArray*: takes in just a section name and returns the entire section as an arraylist of idra
 
 #### insertation
-*startSection*: starts a new section
-*insert*: inserts a value into the new section
-*endSection*: ends the section and adds it to the object
-*addSectionArray*: adds a section in the form of an array.  (note that it pushes them as a straight value not a idra)
+*startSection*: starts a new section\
+*insert*: inserts a value into the new section\
+*endSection*: ends the section and adds it to the object\
+*addSectionArray*: adds a section in the form of an array.  (note that it pushes them as a straight value not a idra)\
 *addVarible*: adds a varible
 
 #### compile
